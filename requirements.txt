@@ -9,6 +9,6 @@ matplotlib == 3.0.3
 
 numpy == 1.19.1
 
-pip install opencv_python 4.4.0 cp37 cp37m win_amd64.whl
+pip install opencv-contrib-python-headless
 
 
