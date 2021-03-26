@@ -9,6 +9,6 @@ matplotlib == 3.0.3
 
 numpy == 1.19.1
 
-pip install opencv-contrib-python-headless
+opencv==4.1.2
 
 
